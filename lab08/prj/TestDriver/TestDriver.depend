@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654495475 source:c:\other\studying\petrunin-ihor-kb-21\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"ModulesPetrunin.h"
+
+1654495224 c:\other\studying\petrunin-ihor-kb-21\lab08\prj\modulespetrunin.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652816227 source:c:\other\studying\petrunin-ihor-kb-21\lab08\prj\petrunin_task\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"ModulesPetrunin.h"
+
+1654495224 c:\other\studying\petrunin-ihor-kb-21\lab08\prj\modulespetrunin.h
+
